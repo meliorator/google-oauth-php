@@ -1,0 +1,22 @@
+{
+  "name": "meliorator/google-oauth-php",
+  "description": "old version Google OAuth library for use in PhpCodeIgniter",
+  "type": "Google OAuth library",
+  "keywords": ["google","oauth"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Laba Mykola",
+      "email": "laba2005@gmail.com"
+    }
+  ],
+  "require": {
+      "php": ">=5.4.0",
+    },
+  "repositories":[
+    {
+      "type": "git",
+      "url": "https://github.com/meliorator/google-oauth-php.git"
+    }
+  ]
+}
